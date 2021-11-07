@@ -1,0 +1,5 @@
+This is the 1st line of the text.
+This is the 2nd line of the text.
+Each line has a pointer to the previous and to the next line
+This is the 4th line of the text.
+This is the last line. The pointer to the next line is null.
