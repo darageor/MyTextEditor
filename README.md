@@ -166,16 +166,3 @@ bsearch του index η οποία κάνοντας δυαδική αναζήτ�
 | Technical                         |     85          |     213          |    426            |   42561              |
 | Venetia                           |     99          |     247          |    495            |   49499              |
 | Μέσος όρος Ανεπιτυχής Αναζήτησης  |     118         |     321          |    593            |   61548              |
-
-Πηγές πληροφόρησης :
-
-https://www.guru99.com/ (για παραδείγματα πάνω στον τρόπο λειτουργίας της BufferReader )
-
-https://mkyong.com/ (για παραδείγματα σχετικά με τον τρόπο μετατροπής byte arrays σε strings )
-
-https://stackoverflow.com/ (για παραδείγματα σχετικά με το sorting, array of strings και deleting null bytes
-from byte[] buffer )
-
-https://docs.oracle.com/ (για κατανόηση διαφόρων έτοιμων συναρτήσεων της γλώσσας java )
-
-https://www.geeksforgeeks.org/ ( για παραδείγματα σχετικά με τον τρόπο σύγκρισης δύο string )
