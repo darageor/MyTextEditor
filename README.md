@@ -154,15 +154,15 @@ bsearch του index η οποία κάνοντας δυαδική αναζήτ�
 
 
 
-ΠΕΙΡΑΜΑ:		   Το πείραμα εκτελέστηκε μόνο για την σειριακή αναζήτηση.
+EXPERIMENT:             The experiment was performed for serial search only.
 
-| Αρχείο δεικτοδότησης              | testfile_x2.txt | testfile_x5.txt  | testfile_x10.txt  | testfile_x1000.txt	  |
+| Indexing file                     | testfile_x2.txt | testfile_x5.txt  | testfile_x10.txt  | testfile_x1000.txt	  |
 |     :---                          |     :---:       |     :---:        |    :---:          |   :---:              |
-| μέγεθος του αρχείου (bytes)       |     31008       |     77520        |    155040         |   15504000           |
-| αριθμός σελίδων                   |     243         |     606          |    1212           |   121125             |
+| file size (bytes)                 |     31008       |     77520        |    155040         |   15504000           |
+| number of pages                   |     243         |     606          |    1212           |   121125             |
 |                                   |                 |                  |                   |                      |
 | Rectors                           |     70          |     176          |    352            |   35249              |
 | laboratories                      |     172         |     429          |    859            |   85874              |
 | Technical                         |     85          |     213          |    426            |   42561              |
 | Venetia                           |     99          |     247          |    495            |   49499              |
-| Μέσος όρος Ανεπιτυχής Αναζήτησης  |     118         |     321          |    593            |   61548              |
+| Unsuccessful Search Average       |     118         |     321          |    593            |   61548              |
