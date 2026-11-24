@@ -1,4 +1,4 @@
-# cs201_lab1_MyTextEditor
+# MyTextEditor
 
 Μέρος πρώτο :
 
